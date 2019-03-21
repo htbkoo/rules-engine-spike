@@ -1,12 +1,12 @@
 package com.baeldung.drools.optaplanner;
 
-import java.util.Arrays;
-
 import org.junit.Assert;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.optaplanner.core.api.solver.Solver;
 import org.optaplanner.core.api.solver.SolverFactory;
+
+import java.util.Arrays;
 
 public class OptaPlannerUnitTest {
 
